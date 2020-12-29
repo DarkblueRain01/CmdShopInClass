@@ -1,7 +1,7 @@
 <component name="libraryTable">
   <library name="poi-ooxml-schemas-4.1.2">
     <CLASSES>
-      <root url="jar://F:/POI/poi-ooxml-schemas-4.1.2.jar!/" />
+      <root url="jar://F:/poi/poi-ooxml-schemas-4.1.2.jar!/" />
     </CLASSES>
     <JAVADOC />
     <SOURCES />
